@@ -1,0 +1,7 @@
+D:\Tiedostot\Tiedostoja\Visual Studio Projects\MaintenanceFinalAssignment\MaintenanceFinalAssignment\bin\Release\MaintenanceFinalAssignment.exe.config
+D:\Tiedostot\Tiedostoja\Visual Studio Projects\MaintenanceFinalAssignment\MaintenanceFinalAssignment\bin\Release\MaintenanceFinalAssignment.exe
+D:\Tiedostot\Tiedostoja\Visual Studio Projects\MaintenanceFinalAssignment\MaintenanceFinalAssignment\bin\Release\MaintenanceFinalAssignment.pdb
+D:\Tiedostot\Tiedostoja\Visual Studio Projects\MaintenanceFinalAssignment\MaintenanceFinalAssignment\bin\Release\RegEditTool.dll
+D:\Tiedostot\Tiedostoja\Visual Studio Projects\MaintenanceFinalAssignment\MaintenanceFinalAssignment\obj\Release\MaintenanceFinalAssignment.csproj.CoreCompileInputs.cache
+D:\Tiedostot\Tiedostoja\Visual Studio Projects\MaintenanceFinalAssignment\MaintenanceFinalAssignment\obj\Release\MaintenanceFinalAssignment.exe
+D:\Tiedostot\Tiedostoja\Visual Studio Projects\MaintenanceFinalAssignment\MaintenanceFinalAssignment\obj\Release\MaintenanceFinalAssignment.pdb
